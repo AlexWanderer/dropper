@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropper", "dropper\dropper.csproj", "{64F53F4A-A423-4341-B91D-8466488989AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F53F4A-A423-4341-B91D-8466488989AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F53F4A-A423-4341-B91D-8466488989AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F53F4A-A423-4341-B91D-8466488989AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F53F4A-A423-4341-B91D-8466488989AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790F2BB7-4FEE-439C-8507-3FE6CA2A8AEA}
+	EndGlobalSection
+EndGlobal

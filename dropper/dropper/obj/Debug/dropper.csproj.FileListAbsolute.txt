@@ -1,0 +1,10 @@
+E:\VisualStudio\dropper\dropper\bin\Debug\dropper.exe.config
+E:\VisualStudio\dropper\dropper\bin\Debug\dropper.exe
+E:\VisualStudio\dropper\dropper\bin\Debug\dropper.pdb
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.csproj.AssemblyReference.cache
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.Properties.Resources.resources
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.csproj.GenerateResource.cache
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.csproj.CoreCompileInputs.cache
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.exe
+E:\VisualStudio\dropper\dropper\obj\Debug\dropper.pdb
